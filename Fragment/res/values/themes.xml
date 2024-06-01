@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme._2211500141_Fragment" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme._2211500141_Fragment.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme._2211500141_Fragment.AppBarOverlay"
+        parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme._2211500141_Fragment.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
