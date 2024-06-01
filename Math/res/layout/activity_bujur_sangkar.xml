@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context=".BujurSangkarActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Pbujursangkar"
+            android:hint="Masukkan Panjang Sisi" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="tombolhitungbujursangkar"
+            android:text="Hitung" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hasil Perhitungan Keliling :" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/H1bujursangkar"
+            android:gravity="center"
+            android:text="Keliling" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hasil Perhitungan Luas :" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/H2bujursangkar"
+            android:gravity="center"
+            android:text="Luas" />
+
+        <Button
+            android:id="@+id/button_kembali"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kembali" />
+    </LinearLayout>
+
+</LinearLayout>

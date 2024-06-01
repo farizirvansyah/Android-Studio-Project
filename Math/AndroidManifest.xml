@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_calc"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_calc"
+        android:supportsRtl="true"
+        android:theme="@style/Theme._2211500141_Matematika_Tugas06"
+        tools:targetApi="31">
+        <activity
+            android:name=".LayangLayangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BelahKetupatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LingkaranActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SegitigaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BujurSangkarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PersegiPanjangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".SplashScreenActivity"
+            android:exported="true"
+            android:theme="@style/Theme._2211500141_Matematika_Tugas06"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

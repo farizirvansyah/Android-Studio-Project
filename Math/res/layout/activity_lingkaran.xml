@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context=".LingkaranActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Dlingkaran"
+            android:hint="Masukkan Diameter" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/JJlingkaran"
+            android:hint="Masukkan Jari-jari" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="tombolhitunglingkaran"
+            android:text="Hitung" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hasil Perhitungan Keliling :" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/H1lingkaran"
+            android:gravity="center"
+            android:text="Keliling" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hasil Perhitungan Luas :" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/H2lingkaran"
+            android:gravity="center"
+            android:text="Luas" />
+
+        <Button
+            android:id="@+id/button_kembali"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kembali" />
+    </LinearLayout>
+
+</LinearLayout>
