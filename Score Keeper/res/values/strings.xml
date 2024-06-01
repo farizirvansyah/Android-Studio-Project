@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2211500141_AplikasiScorekeeper</string>
+    <string name="minus_button">Decrease Button</string>
+    <string name="plus_button">Increase Button</string>
+    <string name="team_1">INDONESIA</string>
+    <string name="team_2">MALAYSIA</string>
+    <string name="initial_count"></string>
+</resources>
