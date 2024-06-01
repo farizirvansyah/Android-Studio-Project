@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">2211500141_AppGabungan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Penjelasan_Cupcake">
+        Android 1.5 Cupcake adalah versi ketiga dari sistem operasi Android, dirilis pada 27 April 2009. Ini adalah versi pertama dari Android yang diberi nama berdasarkan makanan penutup, memulai tradisi penamaan yang terus berlanjut dengan rilis versi Android berikutnya. Berikut adalah beberapa aspek penting tentang sejarah dan fitur utama Android 1.5 Cupcake:
+
+        Sejarah Android 1.5 Cupcake:
+        Android 1.5 Cupcake merupakan pembaruan signifikan dari rilis sebelumnya, Android 1.1. Diperkenalkan oleh Google, Cupcake membawa berbagai peningkatan dan fitur baru yang meningkatkan fungsionalitas dan pengalaman pengguna pada perangkat Android. Versi ini menandai langkah penting dalam evolusi Android, membawa perubahan yang signifikan dalam antarmuka pengguna dan kemampuan sistem.
+
+        Fitur Utama Android 1.5 Cupcake:
+        - Keyboard di Layar (On-Screen Keyboard): Salah satu fitur terbesar yang diperkenalkan dalam Cupcake adalah keyboard virtual di layar, memungkinkan pengguna untuk mengetik langsung pada layar sentuh, menggantikan kebutuhan keyboard fisik.
+        - Widget yang Dapat Dikustomisasi: Cupcake memperkenalkan dukungan untuk widget pihak ketiga yang dapat ditempatkan di layar utama, memberikan pengguna cara baru untuk mengakses informasi dan fungsi aplikasi dengan cepat.
+        - Perekaman Video: Dukungan untuk perekaman video dengan aplikasi kamera bawaan ditambahkan, memungkinkan pengguna untuk merekam video selain mengambil foto.
+        - Upload Video dan Foto ke YouTube dan Picasa: Cupcake memudahkan pengguna untuk mengunggah video langsung ke YouTube dan foto ke Picasa, meningkatkan integrasi dengan layanan Google.
+        - Animasi Transisi: Versi ini memperkenalkan animasi transisi yang lebih halus dan menarik saat berpindah antara aplikasi atau layar, meningkatkan estetika dan pengalaman pengguna.
+        - Rotasi Otomatis (Auto-Rotation): Dukungan untuk rotasi otomatis layar berdasarkan orientasi perangkat diperkenalkan, memungkinkan layar untuk beralih antara mode potret dan lanskap secara otomatis.
+        - Bluetooth A2DP dan AVRCP: Cupcake menambahkan dukungan untuk streaming audio stereo melalui Bluetooth (A2DP) dan kontrol pemutaran media (AVRCP), meningkatkan kemampuan multimedia perangkat Android.
+
+        Dampak dan Warisan:
+        Android 1.5 Cupcake meletakkan dasar bagi banyak fitur dan fungsionalitas yang kini dianggap standar di platform Android. Ini membantu mendorong adopsi yang lebih luas dari perangkat Android dengan meningkatkan kegunaan dan fleksibilitas sistem operasi. Inovasi yang diperkenalkan dalam Cupcake membuka jalan bagi pengembangan lebih lanjut dan peningkatan dalam rilis Android berikutnya.
+
+        Cupcake juga menandai awal dari tradisi penamaan versi Android berdasarkan makanan penutup, yang telah menjadi ciri khas dan aspek yang ditunggu-tunggu dari setiap rilis baru sistem operasi ini. Nama-nama seperti Donut, Eclair, Froyo, dan seterusnya mengikuti jejak yang dimulai oleh Cupcake, menjadikan setiap rilis baru lebih menarik bagi komunitas pengguna Android.
+
+        Secara keseluruhan, Android 1.5 Cupcake adalah tonggak penting dalam sejarah Android, memperkenalkan fitur-fitur inovatif yang masih relevan dan digunakan hingga hari ini.
+    </string>
+</resources>
